@@ -1,0 +1,7 @@
+*.meta
+*.sh~
+*.csv
+.DS_Store
+/.pio
+/.venv
+/.vscode
