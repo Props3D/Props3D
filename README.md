@@ -12,7 +12,7 @@ We love creating and building interactive props and replicas from our personal f
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Sliders Season 1 Timer Replicas #sliders #3dprinting #maker #project](https://www.youtube.com/shorts/qBE4DgeGjRU)
-- [Props3Ds Canadian Response to Tariffs and the Trade War](https://www.youtube.com/watch?v=Hs_lP1CY9Vs)
+- [A Canadian Small Business Response to 50% Tariffs and Impeding Trade War](https://www.youtube.com/watch?v=Hs_lP1CY9Vs)
 - [Where&#39;s That &lpar;Your Prop Here&rpar;?!? A Props3D Update and A Ramble](https://www.youtube.com/watch?v=QIb-IteM-e4)
 - [Dredd 2012 Lawgiver | Props3D Edition 2 | Electronic Feature Demo #props #dredd #maker #project](https://www.youtube.com/shorts/JZWf2aidJ50)
 - [Blamcon Anodizer is Working! Man this looks good.. #blamcon #lightgun #arcade](https://www.youtube.com/shorts/AqHgwsBazIw)
